@@ -87,7 +87,7 @@
 | Walsmann          | Marion      | CDU    | info@walsmann.de                              | http://www.walsmann.de/                                  |
 | Warnecke          | Frank       | SPD    |                                               |                                                          |
 | Wirkner           | Herbert     | CDU    | info@herbert-wirkner.de                       | http://www.herbert-wirkner.de/                           |
-| Wolf              | Torsten     | LINKE  |                                               |                                                          |
+| Wolf              | Torsten     | LINKE  | kontakt@torsten-wolf-jena.de                  | http://torsten-wolf.net/                                 |
 | Worm              | Henry       | CDU    | info@henryworm.de                             | http://www.henryworm.de/de/index.php                     |
 | Wucherpfennig     | Gerold      | CDU    | kontakt@gerold-wucherpfennig.de               | http://www.gerold-wucherpfennig.de/                      |
-| Zippel            | Christoph   | CDU    | kontakt@torsten-wolf-jena.de                  | http://torsten-wolf.net/                                 |
+| Zippel            | Christoph   | CDU    |                                               |                                                          |
