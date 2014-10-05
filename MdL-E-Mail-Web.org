@@ -19,7 +19,7 @@
 | Harzer            | Steffen     | LINKE  | steffen.harzer@t-online.de                    | http://www.steffen-harzer.de/                            |
 | Hausold           | Dieter      | LINKE  | info@dieter-hausold.de                        | http://www.dieter-hausold.de/                            |
 | Helmerich         | Oskar       | AfD    | Oskar.helmerich@afd-thueringen.de             |                                                          |
-| Henfling          | Madeleine   | GRÜNE  |                                               |                                                          |
+| Henfling          | Madeleine   | GRÜNE  |                                               | http://www.madeleine-henfling.de/                        |
 | Henke             | Jörg        | AfD    | joerg.henke@afd-shk.de                        |                                                          |
 | Hennig            | Susanne     | LINKE  | info@susannehennig.de                         | http://www.susannehennig.de/                             |
 | Herold            | Corinna     | AfD    | corinna.herold@afd-thueringen.de              |                                                          |
