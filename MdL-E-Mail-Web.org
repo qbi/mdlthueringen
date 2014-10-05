@@ -58,7 +58,7 @@
 | Meißner           | Beate       | CDU    | mdl.meissner@web.de                           | http://www.beate-meissner.de/cms/                        | ---              |
 | Mitteldorf        | Katja       | LINKE  | katja.mitteldorf@googlemail.com               | http://katja-mitteldorf.de/                              | [[https://twitter.com/icultureonline][@icultureonline]]  |
 | Möller            | Olaf        | GRÜNE  | olaf.moeller.jena@t-online.de                 |                                                          | ---              |
-| Möller            | Stefan      | Afd    | stefan.moeller@afd-thueringen.de              |                                                          | ---              |
+| Möller            | Stefan      | AfD    | stefan.moeller@afd-thueringen.de              |                                                          | ---              |
 | Mohring           | Mike        | CDU    | buero@mike-mohring.de                         | http://www.mike-mohring.de/                              | [[https://twitter.com/MikeMohring][@MikeMohring]]     |
 | Mühlbauer         | Eleonore    | SPD    | eleonore.muehlbauer@spd-thl.de                | http://www.eleonore-muehlbauer.de/                       | [[https://twitter.com/EMuehlbauer_SPD][@EMuehlbauer_SPD]] |
 | Muhsal            | Wiebke      | AfD    | wiebke.muhsal@afd-jena.de                     |                                                          | ---              |
