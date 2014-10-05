@@ -70,7 +70,7 @@
 | Rosin             | Marion      | SPD    |                                               |                                                          |
 | Rothe-Beinlich    | Astrid      | GRÜNE  | erfurt@rothe-beinlich.de                      | http://www.rothe-beinlich.de/                            |
 | Rudy              | Thomas      | AfD    | thomasrudy@t-online.de                        |                                                          |
-| Schaft            | Christian   | LINKE  |                                               |                                                          |
+| Schaft            | Christian   | LINKE  | schaft@die-linke-thl.de                       |                                                          |
 | Scherer           | Manfred     | CDU    | Manfred.Scherer@CDU-Landtag.de                | http://www.manfred-scherer.com/                          |
 | Scheringer-Wright | Dr. Johanna | LINKE  | johanna@scheringer.de                         | http://johanna-scheringer.de/                            |
 | Schubert          | Hartmut     | SPD    | wkbschubert@t-online.de                       | http://www.schubert-hartmut.de/                          |
