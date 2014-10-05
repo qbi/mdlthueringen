@@ -56,7 +56,7 @@
 | Marx              | Dorothea    | SPD    | dorothea.marx@spd-thl.de                      | http://www.marx-heute.de/                                | [[https://twitter.com/marx2009][@marx2009]]        |
 | Matschie          | Christoph   | SPD    | post@matschie.de                              | http://www.christoph-matschie.de/                        | [[https://twitter.com/chris_matschie][@chris_matschie]]  |
 | Meißner           | Beate       | CDU    | mdl.meissner@web.de                           | http://www.beate-meissner.de/cms/                        | ---              |
-| Mitteldorf        | Katja       | LINKE  | katja.mitteldorf@googlemail.com               | http://katja-mitteldorf.de/                              | ---              |
+| Mitteldorf        | Katja       | LINKE  | katja.mitteldorf@googlemail.com               | http://katja-mitteldorf.de/                              | [[https://twitter.com/icultureonline][@icultureonline]]  |
 | Möller            | Olaf        | GRÜNE  | olaf.moeller.jena@t-online.de                 |                                                          | ---              |
 | Möller            | Stefan      | Afd    | stefan.moeller@afd-thueringen.de              |                                                          | ---              |
 | Mohring           | Mike        | CDU    | buero@mike-mohring.de                         | http://www.mike-mohring.de/                              | [[https://twitter.com/MikeMohring][@MikeMohring]]     |
