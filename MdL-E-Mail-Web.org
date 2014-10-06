@@ -15,7 +15,7 @@
 | Gentele           | Siegfried   | AfD    | siegfried.gentele@afd-nem.de                  |                                                          | ---              |
 | Grob              | Manfred     | CDU    | post@manfred-grob.de                          | http://www.manfred-grob.de/                              | ---              |
 | Gruhner           | Stefan      | CDU    |                                               |                                                          | [[https://twitter.com/StefanGruhner][@StefanGruhner]]   |
-| Grund             | Kati        | LINKE  | grund@die-linke-thl.de                        | http://www.kati-grund.de/                                 | [[https://twitter.com/KatiGrund][@KatiGrund]]       |
+| Grund             | Kati        | LINKE  | grund@die-linke-thl.de                        | http://www.kati-grund.de/                                | [[https://twitter.com/KatiGrund][@KatiGrund]]       |
 | Harzer            | Steffen     | LINKE  | steffen.harzer@t-online.de                    | http://www.steffen-harzer.de/                            | [[https://twitter.com/Harzerkas][@Harzerkas]]       |
 | Hausold           | Dieter      | LINKE  | info@dieter-hausold.de                        | http://www.dieter-hausold.de/                            | ---              |
 | Helmerich         | Oskar       | AfD    | Oskar.helmerich@afd-thueringen.de             |                                                          | ---              |
