@@ -15,7 +15,7 @@
 | Gentele           | Siegfried   | AfD    | siegfried.gentele@afd-nem.de                  |                                                          | ---              |
 | Grob              | Manfred     | CDU    | post@manfred-grob.de                          | http://www.manfred-grob.de/                              | ---              |
 | Gruhner           | Stefan      | CDU    |                                               |                                                          | [[https://twitter.com/StefanGruhner][@StefanGruhner]]   |
-| Grund             | Kati        | LINKE  |                                               |                                                          | [[https://twitter.com/KatiGrund][@KatiGrund]]       |
+| Grund             | Kati        | LINKE  | grund@die-linke-thl.de                        | http://www.kati-grund.de/                                 | [[https://twitter.com/KatiGrund][@KatiGrund]]       |
 | Harzer            | Steffen     | LINKE  | steffen.harzer@t-online.de                    | http://www.steffen-harzer.de/                            | [[https://twitter.com/Harzerkas][@Harzerkas]]       |
 | Hausold           | Dieter      | LINKE  | info@dieter-hausold.de                        | http://www.dieter-hausold.de/                            | ---              |
 | Helmerich         | Oskar       | AfD    | Oskar.helmerich@afd-thueringen.de             |                                                          | ---              |
@@ -70,7 +70,7 @@
 | Rosin             | Marion      | SPD    |                                               |                                                          | ---              |
 | Rothe-Beinlich    | Astrid      | GRÜNE  | erfurt@rothe-beinlich.de                      | http://www.rothe-beinlich.de/                            | [[https://twitter.com/Astrid_RB][@Astrid_RB]]       |
 | Rudy              | Thomas      | AfD    | thomasrudy@t-online.de                        |                                                          | ---              |
-| Schaft            | Christian   | LINKE  | schaft@die-linke-thl.de                       |                                                          | [[https://twitter.com/ChristianSchaft][@ChristianSchaft]] |
+| Schaft            | Christian   | LINKE  | schaft@die-linke-thl.de                       | http://www.christian-schaft.de/                          | [[https://twitter.com/ChristianSchaft][@ChristianSchaft]] |
 | Scherer           | Manfred     | CDU    | Manfred.Scherer@CDU-Landtag.de                | http://www.manfred-scherer.com/                          | [[https://twitter.com/ManfredScherer_][@ManfredScherer_]] |
 | Scheringer-Wright | Dr. Johanna | LINKE  | johanna@scheringer.de                         | http://johanna-scheringer.de/                            | ---              |
 | Schubert          | Hartmut     | SPD    | wkbschubert@t-online.de                       | http://www.schubert-hartmut.de/                          | ---              |
