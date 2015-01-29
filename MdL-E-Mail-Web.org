@@ -83,7 +83,7 @@
 | Thamm             | Jörg        | CDU    |                                               | http://www.jörg-thamm.de/                                | ---              |
 | Tischner          | Christian   | CDU    | Webformular                                   | http://www.christian-tischner.de/                        | [[https://twitter.com/ct_grz][@ct_grz]]          |
 | Voigt             | Dr. Mario   | CDU    | voigt@thl-cdu.de                              | http://www.mario-voigt.com/                              | [[https://twitter.com/mariovoigt][@mariovoigt]]      |
-| Walk              | Raymond     | CDU    |                                               |                                                          | ---              |
+| Walk              | Raymond     | CDU    | post@raymondwalk.de                           | http://www.raymondwalk.de/                               | ---              |
 | Walsmann          | Marion      | CDU    | info@walsmann.de                              | http://www.walsmann.de/                                  | [[https://twitter.com/MarionWalsmann][@MarionWalsmann]]  |
 | Warnecke          | Frank       | SPD    | buero@frank-warnecke.eu                       | http://frank-warnecke.eu/                                | ---              |
 | Wirkner           | Herbert     | CDU    | info@herbert-wirkner.de                       | http://www.herbert-wirkner.de/                           | ---              |
