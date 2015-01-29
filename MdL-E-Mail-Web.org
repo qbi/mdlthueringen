@@ -38,7 +38,7 @@
 | Klaubert          | Dr. Birgit  | LINKE  | info@dr-birgit-klaubert.de                    | http://www.dr-birgit-klaubert.de/                        | [[https://twitter.com/redhair54][@redhair54]]       |
 | König             | Katharina   | LINKE  | katharina.koenig@haskala.de                   | http://www.haskala.de/                                   | [[https://twitter.com/KatharinaKoenig][@KatharinaKoenig]] |
 | Kräuter           | Rainer      | LINKE  | rkraeuter@me.com                              | http://www.rainer-kraeuter.de/                           | [[https://twitter.com/Rainerkraeuter][@Rainerkraeuter]]  |
-| Kobelt            | Roberto     | GRÜNE  | roberto.kobelt@gruene-thueringen.de           |                                                          | ---              |
+| Kobelt            | Roberto     | GRÜNE  | roberto.kobelt@gruene-thueringen.de           | http://robertokobelt.de/                                 | ---              |
 | Korschewsky       | Knut        | LINKE  | wbk-korschewsky@gmx.de                        | http://www.korschewsky.de/                               | [[https://twitter.com/KKorschewsky][@KKorschewsky]]    |
 | Kowalleck         | Maik        | CDU    | info@maik-kowalleck.de                        | http://www.maik-kowalleck.de/                            | ---              |
 | Krumpe            | Jens        | AfD    | jens.krumpe@afd-thueringen.de                 |                                                          | ---              |
