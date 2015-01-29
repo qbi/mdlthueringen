@@ -26,7 +26,7 @@
 | Herrgott          | Christian   | CDU    | Webformular                                   | http://www.christian-herrgott.de/                        | ---              |
 | Hey               | Matthias    | SPD    | stimmefuergotha@live.de                       | http://www.matthias-hey.de/                              | ---              |
 | Heym              | Michael     | CDU    | WKB.Heym@web.de                               | ---                                                      | ---              |
-| Höcke             | Björn       | AfD    | bjoern.hoecke@afd-thueringen.de               |                                                          | ---              |
+| Höcke             | Björn       | AfD    | bjoern.hoecke@afd-thueringen.de               | http://www.bjoern-hoecke.de/                             | ---              |
 | Höhn              | Uwe         | SPD    | hoehn.mdl@t-online.de                         | http://spdnet.sozi.info/thueringen/hildburghausen/hoehn/ | ---              |
 | Holbe             | Gudrun      | CDU    | GudrunHolbe@web.de                            | http://www.gudrun-holbe.de/                              | ---              |
 | Holzapfel         | Elke        | CDU    | elke-holzapfel@t-online.de                    | http://www.elke-holzapfel.de/                            | ---              |
