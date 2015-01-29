@@ -4,7 +4,7 @@
 | Becker            | Dagmar      | SPD    | spd-nordhausen@web.de                         | http://www.spd-nordhausen.de/                            | ---              |
 | Berninger         | Sabine      | LINKE  | wkb-berninger@t-online.de                     | http://www.sabine-berninger.de/                          | [[https://twitter.com/BineB][@BineB]]           |
 | Blechschmidt      | André       | LINKE  | blechschmidt@die-linke-erfurt.de              | http://www.andre-blechschmidt.de/                        | ---              |
-| Brandner          | Stephan     | AfD    | stephan.brandner@afd-gera.de                  |                                                          | ---              |
+| Brandner          | Stephan     | AfD    | stephan.brandner@afd-gera.de                  | http://www.brandner-im-landtag.de/                       | ---              |
 | Bühl              | Andreas     | CDU    | Webformular                                   | http://www.andreasbuehl.de/                              | [[https://twitter.com/Buehlandreas][@Buehlandreas]]    |
 | Carius            | Christian   | CDU    | Info@Christian-Carius.de                      | http://www.christian-carius.de/                          | ---              |
 | Dittes            | Steffen     | LINKE  | sdittes@die-linke-thueringen.de               | http://www.steffen-dittes.de/                            | [[https://twitter.com/St_Dittes][@St_Dittes]]       |
@@ -15,7 +15,7 @@
 | Gentele           | Siegfried   | AfD    | siegfried.gentele@afd-nem.de                  |                                                          | ---              |
 | Grob              | Manfred     | CDU    | post@manfred-grob.de                          | http://www.manfred-grob.de/                              | ---              |
 | Gruhner           | Stefan      | CDU    | buero@stefan-gruhner.de                       | http://www.stefan-gruhner.de/                            | [[https://twitter.com/StefanGruhner][@StefanGruhner]]   |
-| Grund             | Kati        | LINKE  | grund@die-linke-thl.de                        | http://www.kati-grund.de/                                 | [[https://twitter.com/KatiGrund][@KatiGrund]]       |
+| Grund             | Kati        | LINKE  | grund@die-linke-thl.de                        | http://www.kati-grund.de/                                | [[https://twitter.com/KatiGrund][@KatiGrund]]       |
 | Harzer            | Steffen     | LINKE  | steffen.harzer@t-online.de                    | http://www.steffen-harzer.de/                            | [[https://twitter.com/Harzerkas][@Harzerkas]]       |
 | Hausold           | Dieter      | LINKE  | info@dieter-hausold.de                        | http://www.dieter-hausold.de/                            | ---              |
 | Helmerich         | Oskar       | AfD    | Oskar.helmerich@afd-thueringen.de             | http://www.rechtsanwalt-helmerich.de/                    | ---              |
