@@ -67,7 +67,7 @@
 | Primas            | Egon        | CDU    | eprimas@cdu-nordhausen.de                     | http://www.egonprimas.de/                                | ---              |
 | Ramelow           | Bodo        | LINKE  | wahlkreisbuero@bodo-ramelow.de                | http://www.bodo-ramelow.de/                              | [[https://twitter.com/bodoramelow][@bodoramelow]]     |
 | Reinholz          | Jürgen      | CDU    | kontakt@juergen-reinholz.de                   | http://www.juergen-reinholz.de/                          | ---              |
-| Rosin             | Marion      | SPD    |                                               |                                                          | ---              |
+| Rosin             | Marion      | SPD    | marion.rosin@spd-thl.de                       | http://www.marionrosin.de/                               | ---              |
 | Rothe-Beinlich    | Astrid      | GRÜNE  | erfurt@rothe-beinlich.de                      | http://www.rothe-beinlich.de/                            | [[https://twitter.com/Astrid_RB][@Astrid_RB]]       |
 | Rudy              | Thomas      | AfD    | thomasrudy@t-online.de                        |                                                          | ---              |
 | Schaft            | Christian   | LINKE  | schaft@die-linke-thl.de                       | http://www.christian-schaft.de/                          | [[https://twitter.com/ChristianSchaft][@ChristianSchaft]] |
