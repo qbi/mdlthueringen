@@ -63,6 +63,7 @@
 | Mühlbauer         | Eleonore    | eleonore.muehlbauer@spd-thl.de                | SPD    | http://www.eleonore-muehlbauer.de/                       | [[https://twitter.com/EMuehlbauer_SPD][@EMuehlbauer_SPD]] |
 | Muhsal            | Wiebke      | wiebke.muhsal@afd-jena.de                     | AfD    |                                                          | ---              |
 | Müller            | Anja        | amueller@die-linke-thueringen.de              | LINKE  | http://anjamueller2014.de/                               | [[https://twitter.com/linkeanja][@linkeanja]]       |
+| Pelke             | Birgit      | birgit.pelke@spd-thl.de                       | SPD    | http://www.birgit-pelke.de/                              | ---              |
 | Pidde             | Dr. Werner  | wernerpidde@gmx.de                            | SPD    | http://www.werner-pidde.de/                              | ---              |
 | Pfefferlein       | Babett      |                                               | GRÜNE  |                                                          | ---              |
 | Primas            | Egon        | eprimas@cdu-nordhausen.de                     | CDU    | http://www.egonprimas.de/                                | ---              |
