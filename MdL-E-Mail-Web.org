@@ -85,7 +85,7 @@
 | Voigt             | Dr. Mario   | CDU    | voigt@thl-cdu.de                              | http://www.mario-voigt.com/                              | [[https://twitter.com/mariovoigt][@mariovoigt]]      |
 | Walk              | Raymond     | CDU    |                                               |                                                          | ---              |
 | Walsmann          | Marion      | CDU    | info@walsmann.de                              | http://www.walsmann.de/                                  | [[https://twitter.com/MarionWalsmann][@MarionWalsmann]]  |
-| Warnecke          | Frank       | SPD    |                                               |                                                          | ---              |
+| Warnecke          | Frank       | SPD    | buero@frank-warnecke.eu                       | http://frank-warnecke.eu/                                | ---              |
 | Wirkner           | Herbert     | CDU    | info@herbert-wirkner.de                       | http://www.herbert-wirkner.de/                           | ---              |
 | Wolf              | Torsten     | LINKE  | kontakt@torsten-wolf-jena.de                  | http://torsten-wolf.net/                                 | ---              |
 | Worm              | Henry       | CDU    | info@henryworm.de                             | http://www.henryworm.de/de/index.php                     | ---              |
