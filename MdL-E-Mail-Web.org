@@ -18,7 +18,7 @@
 | Grund             | Kati        | LINKE  | grund@die-linke-thl.de                        | http://www.kati-grund.de/                                 | [[https://twitter.com/KatiGrund][@KatiGrund]]       |
 | Harzer            | Steffen     | LINKE  | steffen.harzer@t-online.de                    | http://www.steffen-harzer.de/                            | [[https://twitter.com/Harzerkas][@Harzerkas]]       |
 | Hausold           | Dieter      | LINKE  | info@dieter-hausold.de                        | http://www.dieter-hausold.de/                            | ---              |
-| Helmerich         | Oskar       | AfD    | Oskar.helmerich@afd-thueringen.de             |                                                          | ---              |
+| Helmerich         | Oskar       | AfD    | Oskar.helmerich@afd-thueringen.de             | http://www.rechtsanwalt-helmerich.de/                    | ---              |
 | Henfling          | Madeleine   | GRÜNE  |                                               | http://www.madeleine-henfling.de/                        | [[https://twitter.com/henfling_m][@henfling_m]]      |
 | Henke             | Jörg        | AfD    | joerg.henke@afd-shk.de                        |                                                          | ---              |
 | Hennig            | Susanne     | LINKE  | info@susannehennig.de                         | http://www.susannehennig.de/                             | [[https://twitter.com/SusanneHennig][@SusanneHenning]]  |
