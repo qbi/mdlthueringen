@@ -9,13 +9,13 @@
 | Carius            | Christian   | Info@Christian-Carius.de                      | CDU    | http://www.christian-carius.de/                          | ---              |
 | Dittes            | Steffen     | sdittes@die-linke-thueringen.de               | LINKE  | http://www.steffen-dittes.de/                            | [[https://twitter.com/St_Dittes][@St_Dittes]]       |
 | Emde              | Volker      | wk@volker-emde.de                             | CDU    | http://www.volker-emde.de/                               | ---              |
+| Engel             | Kati        | grund@die-linke-thl.de                        | LINKE  | http://www.kati-grund.de/                                | [[https://twitter.com/KatiGrund][@KatiGrund]]       |
 | Fiedler           | Wolfgang    | Wolfgang-Fiedler-MdL@t-online.de              | CDU    | ---                                                      | ---              |
 | Floßmann          | Kristin     | frauenunion_hbn@gmx.de                        | CDU    | http://www.kristin-flossmann.de/                         | ---              |
 | Geibert           | Jörg        | kontakt@joerg-geibert.de                      | CDU    | http://www.joerg-geibert.de/                             | [[https://twitter.com/JGeibert][@JGeibert]]        |
 | Gentele           | Siegfried   | siegfried.gentele@afd-nem.de                  | AfD    |                                                          | ---              |
 | Grob              | Manfred     | post@manfred-grob.de                          | CDU    | http://www.manfred-grob.de/                              | ---              |
 | Gruhner           | Stefan      | buero@stefan-gruhner.de                       | CDU    | http://www.stefan-gruhner.de/                            | [[https://twitter.com/StefanGruhner][@StefanGruhner]]   |
-| Grund             | Kati        | grund@die-linke-thl.de                        | LINKE  | http://www.kati-grund.de/                                | [[https://twitter.com/KatiGrund][@KatiGrund]]       |
 | Harzer            | Steffen     | steffen.harzer@t-online.de                    | LINKE  | http://www.steffen-harzer.de/                            | [[https://twitter.com/Harzerkas][@Harzerkas]]       |
 | Hausold           | Dieter      | info@dieter-hausold.de                        | LINKE  | http://www.dieter-hausold.de/                            | ---              |
 | Helmerich         | Oskar       | Oskar.helmerich@afd-thueringen.de             | AfD    | http://www.rechtsanwalt-helmerich.de/                    | ---              |
