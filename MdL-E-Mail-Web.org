@@ -64,6 +64,7 @@
 | Muhsal            | Wiebke      | wiebke.muhsal@afd-jena.de                     | AfD    |                                                          | ---              |
 | Müller            | Anja        | amueller@die-linke-thueringen.de              | LINKE  | http://anjamueller2014.de/                               | [[https://twitter.com/linkeanja][@linkeanja]]       |
 | Pidde             | Dr. Werner  | wernerpidde@gmx.de                            | SPD    | http://www.werner-pidde.de/                              | ---              |
+| Pfefferlein       | Babett      |                                               | GRÜNE  |                                                          | ---              |
 | Primas            | Egon        | eprimas@cdu-nordhausen.de                     | CDU    | http://www.egonprimas.de/                                | ---              |
 | Ramelow           | Bodo        | wahlkreisbuero@bodo-ramelow.de                | LINKE  | http://www.bodo-ramelow.de/                              | [[https://twitter.com/bodoramelow][@bodoramelow]]     |
 | Reinholz          | Jürgen      | kontakt@juergen-reinholz.de                   | CDU    | http://www.juergen-reinholz.de/                          | ---              |
