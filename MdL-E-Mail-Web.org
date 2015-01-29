@@ -1,3 +1,4 @@
+* Abgeordnete des 6. Thüringer Landtages
 | Name              | Vorname     | E-Mail                                        | Partei | Webseite                                                 | Twitter          |
 |-------------------+-------------+-----------------------------------------------+--------+----------------------------------------------------------+------------------|
 | Adams             | Dirk        | dirk.adams@gruene-fraktion.thueringen.de      | GRÜNE  | http://www.dirkadams.de/                                 | [[https://twitter.com/GruenerDirk][@GruenerDirk]]     |
