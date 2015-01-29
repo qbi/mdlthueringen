@@ -34,7 +34,7 @@
 | Jung              | Margit      | LINKE  | jung-margit@t-online.de                       | http://www.margit-jung.de/                               | [[https://twitter.com/jung_margit][@jung_margit]]     |
 | Kalich            | Ralf        | LINKE  | kalich@die-linke-thl.de                       | http://www.ralfkalich.de/                                | [[https://twitter.com/RalfKalich][@RalfKalich]]      |
 | Kellner           | Jörg        | CDU    | kontakt@joerg-kellner.de                      | http://www.joerg-kellner.de/                             | ---              |
-| Kießling          | Olaf        | AfD    | olaf.kiessling@afd-ilmkreis-gotha.de          |                                                          | ---              |
+| Kießling          | Olaf        | AfD    | olaf.kiessling@afd-ilmkreis-gotha.de          | http://olaf-kiessling.afd-thl.de/                        | ---              |
 | Klaubert          | Dr. Birgit  | LINKE  | info@dr-birgit-klaubert.de                    | http://www.dr-birgit-klaubert.de/                        | [[https://twitter.com/redhair54][@redhair54]]       |
 | König             | Katharina   | LINKE  | katharina.koenig@haskala.de                   | http://www.haskala.de/                                   | [[https://twitter.com/KatharinaKoenig][@KatharinaKoenig]] |
 | Kräuter           | Rainer      | LINKE  | rkraeuter@me.com                              | http://www.rainer-kraeuter.de/                           | [[https://twitter.com/Rainerkraeuter][@Rainerkraeuter]]  |
