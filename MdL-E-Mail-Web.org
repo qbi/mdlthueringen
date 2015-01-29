@@ -58,7 +58,6 @@
 | Matschie          | Christoph   | post@matschie.de                              | SPD    | http://www.christoph-matschie.de/                        | [[https://twitter.com/chris_matschie][@chris_matschie]]  |
 | Meißner           | Beate       | mdl.meissner@web.de                           | CDU    | http://www.beate-meissner.de/cms/                        | ---              |
 | Mitteldorf        | Katja       | katja.mitteldorf@googlemail.com               | LINKE  | http://katja-mitteldorf.de/                              | [[https://twitter.com/icultureonline][@icultureonline]]  |
-| Möller            | Olaf        | olaf.moeller.jena@t-online.de                 | GRÜNE  |                                                          | ---              |
 | Möller            | Stefan      | stefan.moeller@afd-thueringen.de              | AfD    |                                                          | ---              |
 | Mohring           | Mike        | buero@mike-mohring.de                         | CDU    | http://www.mike-mohring.de/                              | [[https://twitter.com/MikeMohring][@MikeMohring]]     |
 | Mühlbauer         | Eleonore    | eleonore.muehlbauer@spd-thl.de                | SPD    | http://www.eleonore-muehlbauer.de/                       | [[https://twitter.com/EMuehlbauer_SPD][@EMuehlbauer_SPD]] |
@@ -74,7 +73,6 @@
 | Schaft            | Christian   | schaft@die-linke-thl.de                       | LINKE  | http://www.christian-schaft.de/                          | [[https://twitter.com/ChristianSchaft][@ChristianSchaft]] |
 | Scherer           | Manfred     | Manfred.Scherer@CDU-Landtag.de                | CDU    | http://www.manfred-scherer.com/                          | [[https://twitter.com/ManfredScherer_][@ManfredScherer_]] |
 | Scheringer-Wright | Dr. Johanna | johanna@scheringer.de                         | LINKE  | http://johanna-scheringer.de/                            | ---              |
-| Schubert          | Hartmut     | wkbschubert@t-online.de                       | SPD    | http://www.schubert-hartmut.de/                          | ---              |
 | Schulze           | Simone      | simone.schulze.wk43@t-online.de               | CDU    | http://www.simone-schulze-cdu.de/                        | ---              |
 | Siegesmund        | Anja        | anja.siegesmund@gruene-fraktion.thueringen.de | GRÜNE  | http://siegesmund.info/                                  | [[https://twitter.com/AnjaSiegesmund][@AnjaSiegesmund]]  |
 | Skibbe            | Diana       | skibbe@die-linke-thl.de                       | LINKE  | http://www.dianaskibbe.de/                               | ---              |
@@ -92,3 +90,8 @@
 | Worm              | Henry       | info@henryworm.de                             | CDU    | http://www.henryworm.de/de/index.php                     | ---              |
 | Wucherpfennig     | Gerold      | kontakt@gerold-wucherpfennig.de               | CDU    | http://www.gerold-wucherpfennig.de/                      | ---              |
 | Zippel            | Christoph   | info@cdu-altenburger-land.de                  | CDU    | http://www.christoph-zippel.de/                          | ---              |
+* Ehemalige Abgeordnete
+| Name              | Vorname     | E-Mail                                        | Partei | Webseite                                                 | Twitter          |
+|-------------------+-------------+-----------------------------------------------+--------+----------------------------------------------------------+------------------|
+| Möller            | Olaf        | olaf.moeller.jena@t-online.de                 | GRÜNE  |                                                          | ---              |
+| Schubert          | Hartmut     | wkbschubert@t-online.de                       | SPD    | http://www.schubert-hartmut.de/                          | ---              |
