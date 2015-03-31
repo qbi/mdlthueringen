@@ -13,10 +13,12 @@
 | Engel             | Kati        | grund@die-linke-thl.de                        | LINKE  | http://www.kati-grund.de/                                | [[https://twitter.com/KatiGrund][@KatiGrund]]       |
 | Fiedler           | Wolfgang    | Wolfgang-Fiedler-MdL@t-online.de              | CDU    | ---                                                      | ---              |
 | Floßmann          | Kristin     | frauenunion_hbn@gmx.de                        | CDU    | http://www.kristin-flossmann.de/                         | ---              |
+| Gehl              | Iris Martin | info@martin-gehl.de                           | LINKE  | http://www.martin-gehl.de                                | ---              |
 | Geibert           | Jörg        | kontakt@joerg-geibert.de                      | CDU    | http://www.joerg-geibert.de/                             | [[https://twitter.com/JGeibert][@JGeibert]]        |
 | Gentele           | Siegfried   | siegfried.gentele@afd-nem.de                  | AfD    |                                                          | ---              |
 | Grob              | Manfred     | post@manfred-grob.de                          | CDU    | http://www.manfred-grob.de/                              | ---              |
 | Gruhner           | Stefan      | buero@stefan-gruhner.de                       | CDU    | http://www.stefan-gruhner.de/                            | [[https://twitter.com/StefanGruhner][@StefanGruhner]]   |
+| Hande             | Ronald      | ronaldhande@gmx.de                            | LINKE  | http://www.ronald-hande.de/                              | ---              |
 | Harzer            | Steffen     | steffen.harzer@t-online.de                    | LINKE  | http://www.steffen-harzer.de/                            | [[https://twitter.com/Harzerkas][@Harzerkas]]       |
 | Hausold           | Dieter      | info@dieter-hausold.de                        | LINKE  | http://www.dieter-hausold.de/                            | ---              |
 | Helmerich         | Oskar       | Oskar.helmerich@afd-thueringen.de             | AfD    | http://www.rechtsanwalt-helmerich.de/                    | ---              |
@@ -36,7 +38,6 @@
 | Kalich            | Ralf        | kalich@die-linke-thl.de                       | LINKE  | http://www.ralfkalich.de/                                | [[https://twitter.com/RalfKalich][@RalfKalich]]      |
 | Kellner           | Jörg        | kontakt@joerg-kellner.de                      | CDU    | http://www.joerg-kellner.de/                             | ---              |
 | Kießling          | Olaf        | olaf.kiessling@afd-ilmkreis-gotha.de          | AfD    | http://olaf-kiessling.afd-thl.de/                        | ---              |
-| Klaubert          | Dr. Birgit  | info@dr-birgit-klaubert.de                    | LINKE  | http://www.dr-birgit-klaubert.de/                        | [[https://twitter.com/redhair54][@redhair54]]       |
 | König             | Katharina   | katharina.koenig@haskala.de                   | LINKE  | http://www.haskala.de/                                   | [[https://twitter.com/KatharinaKoenig][@KatharinaKoenig]] |
 | Kräuter           | Rainer      | rkraeuter@me.com                              | LINKE  | http://www.rainer-kraeuter.de/                           | [[https://twitter.com/Rainerkraeuter][@Rainerkraeuter]]  |
 | Kobelt            | Roberto     | roberto.kobelt@gruene-thueringen.de           | GRÜNE  | http://robertokobelt.de/                                 | ---              |
@@ -67,7 +68,6 @@
 | Pidde             | Dr. Werner  | wernerpidde@gmx.de                            | SPD    | http://www.werner-pidde.de/                              | ---              |
 | Pfefferlein       | Babett      |                                               | GRÜNE  |                                                          | ---              |
 | Primas            | Egon        | eprimas@cdu-nordhausen.de                     | CDU    | http://www.egonprimas.de/                                | ---              |
-| Ramelow           | Bodo        | wahlkreisbuero@bodo-ramelow.de                | LINKE  | http://www.bodo-ramelow.de/                              | [[https://twitter.com/bodoramelow][@bodoramelow]]     |
 | Reinholz          | Jürgen      | kontakt@juergen-reinholz.de                   | CDU    | http://www.juergen-reinholz.de/                          | ---              |
 | Rosin             | Marion      | marion.rosin@spd-thl.de                       | SPD    | http://www.marionrosin.de/                               | ---              |
 | Rothe-Beinlich    | Astrid      | erfurt@rothe-beinlich.de                      | GRÜNE  | http://www.rothe-beinlich.de/                            | [[https://twitter.com/Astrid_RB][@Astrid_RB]]       |
@@ -95,5 +95,7 @@
 * Ehemalige Abgeordnete
 | Name              | Vorname     | E-Mail                                        | Partei | Webseite                                                 | Twitter          |
 |-------------------+-------------+-----------------------------------------------+--------+----------------------------------------------------------+------------------|
+| Klaubert          | Dr. Birgit  | info@dr-birgit-klaubert.de                    | LINKE  | http://www.dr-birgit-klaubert.de/                        | [[https://twitter.com/redhair54][@redhair54]]       |
 | Möller            | Olaf        | olaf.moeller.jena@t-online.de                 | GRÜNE  |                                                          | ---              |
+| Ramelow           | Bodo        | wahlkreisbuero@bodo-ramelow.de                | LINKE  | http://www.bodo-ramelow.de/                              | [[https://twitter.com/bodoramelow][@bodoramelow]]     |
 | Schubert          | Hartmut     | wkbschubert@t-online.de                       | SPD    | http://www.schubert-hartmut.de/                          | ---              |
