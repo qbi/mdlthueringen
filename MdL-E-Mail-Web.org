@@ -66,7 +66,7 @@
 | Müller            | Anja        | amueller@die-linke-thueringen.de                 | LINKE  | http://anjamueller2014.de/                               | [[https://twitter.com/linkeanja][@linkeanja]]       |
 | Pelke             | Birgit      | birgit.pelke@spd-thl.de                          | SPD    | http://www.birgit-pelke.de/                              | ---              |
 | Pidde             | Dr. Werner  | wernerpidde@gmx.de                               | SPD    | http://www.werner-pidde.de/                              | ---              |
-| Pfefferlein       | Babett      |                                                  | GRÜNE  |                                                          | ---              |
+| Pfefferlein       | Babett      | wahlkreis@babett-pfefferlein.de                  | GRÜNE  |                                                          | ---              |
 | Primas            | Egon        | eprimas@cdu-nordhausen.de                        | CDU    | http://www.egonprimas.de/                                | ---              |
 | Reinholz          | Jürgen      | kontakt@juergen-reinholz.de                      | CDU    | http://www.juergen-reinholz.de/                          | ---              |
 | Rosin             | Marion      | marion.rosin@spd-thl.de                          | SPD    | http://www.marionrosin.de/                               | ---              |
