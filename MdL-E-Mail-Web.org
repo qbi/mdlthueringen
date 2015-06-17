@@ -15,7 +15,7 @@
 | Floßmann          | Kristin     | frauenunion_hbn@gmx.de                           | CDU    | http://www.kristin-flossmann.de/                         | ---              |
 | Gehl              | Iris Martin | info@martin-gehl.de                              | LINKE  | http://www.martin-gehl.de                                | ---              |
 | Geibert           | Jörg        | kontakt@joerg-geibert.de                         | CDU    | http://www.joerg-geibert.de/                             | [[https://twitter.com/JGeibert][@JGeibert]]        |
-| Gentele           | Siegfried   | siegfried.gentele@afd-nem.de                     | AfD    |                                                          | ---              |
+| Gentele           | Siegfried   | mdl@sgentele.de                                  | AfD    |                                                          | ---              |
 | Grob              | Manfred     | post@manfred-grob.de                             | CDU    | http://www.manfred-grob.de/                              | ---              |
 | Gruhner           | Stefan      | buero@stefan-gruhner.de                          | CDU    | http://www.stefan-gruhner.de/                            | [[https://twitter.com/StefanGruhner][@StefanGruhner]]   |
 | Hande             | Ronald      | ronaldhande@gmx.de                               | LINKE  | http://www.ronald-hande.de/                              | ---              |
