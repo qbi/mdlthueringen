@@ -54,7 +54,7 @@
 | Liebetrau         | Christina   | CLiebetrau@t-online.de                           | CDU    | http://www.cdu-sm.de/                                    | ---              |
 | Lukasch           | Ute         | Lukasch@die-linke-thl.de                         | LINKE  | http://www.utelukasch.de/                                | ---              |
 | Lukin             | Dr. Gudrun  | kontakt@gudrun-lukin.de                          | LINKE  | http://www.gudrun-lukin.de/                              | [[https://twitter.com/gudrunlukin][@gudrunlukin]]     |
-| Malsch            | Marcus      | Webformular                                      | CDU    | http://www.marcus-malsch.de/                             | ---              |
+| Malsch            | Marcus      | malsch@cdu-landtag.de                            | CDU    | http://www.marcus-malsch.de/                             | ---              |
 | Marx              | Dorothea    | dorothea.marx@spd-thl.de                         | SPD    | http://www.marx-heute.de/                                | [[https://twitter.com/marx2009][@marx2009]]        |
 | Matschie          | Christoph   | post@matschie.de                                 | SPD    | http://www.christoph-matschie.de/                        | [[https://twitter.com/chris_matschie][@chris_matschie]]  |
 | Meißner           | Beate       | mdl.meissner@web.de                              | CDU    | http://www.beate-meissner.de/cms/                        | ---              |
