@@ -41,7 +41,7 @@
 | König             | Katharina   | katharina.koenig@haskala.de                      | LINKE  | http://www.haskala.de/                                   | [[https://twitter.com/KatharinaKoenig][@KatharinaKoenig]] |
 | Kräuter           | Rainer      | rkraeuter@me.com                                 | LINKE  | http://www.rainer-kraeuter.de/                           | [[https://twitter.com/Rainerkraeuter][@Rainerkraeuter]]  |
 | Kobelt            | Roberto     | roberto.kobelt@gruene-thueringen.de              | GRÜNE  | http://robertokobelt.de/                                 | ---              |
-| Korschewsky       | Knut        | wbk-korschewsky@gmx.de                           | LINKE  | http://www.korschewsky.de/                               | [[https://twitter.com/KKorschewsky][@KKorschewsky]]    |
+| Korschewsky       | Knut        | korschewsky@die-linke-thl.de                     | LINKE  | http://www.korschewsky.de/                               | [[https://twitter.com/KKorschewsky][@KKorschewsky]]    |
 | Kowalleck         | Maik        | info@maik-kowalleck.de                           | CDU    | http://www.maik-kowalleck.de/                            | ---              |
 | Krumpe            | Jens        | jens.krumpe@afd-thueringen.de                    | AfD    | ---                                                      | ---              |
 | Kubitzki          | Klaus Jörg  | mdljoergkubitzki@t-online.de                     | LINKE  | ---                                                      | ---              |
