@@ -6,7 +6,7 @@
 | Berninger         | Sabine      | wkb-berninger@t-online.de                        | LINKE  | http://www.sabine-berninger.de/                          | [[https://twitter.com/BineB][@BineB]]           |
 | Blechschmidt      | André       | blechschmidt@die-linke-erfurt.de                 | LINKE  | http://www.andre-blechschmidt.de/                        | ---              |
 | Brandner          | Stephan     | stephan.brandner@afd-gera.de                     | AfD    | http://www.brandner-im-landtag.de/                       | ---              |
-| Bühl              | Andreas     | Webformular                                      | CDU    | http://www.andreasbuehl.de/                              | [[https://twitter.com/Buehlandreas][@Buehlandreas]]    |
+| Bühl              | Andreas     | kontakt@andreasbuehl.de                          | CDU    | http://www.andreasbuehl.de/                              | [[https://twitter.com/Buehlandreas][@Buehlandreas]]    |
 | Carius            | Christian   | Info@Christian-Carius.de                         | CDU    | http://www.christian-carius.de/                          | ---              |
 | Dittes            | Steffen     | sdittes@die-linke-thueringen.de                  | LINKE  | http://www.steffen-dittes.de/                            | [[https://twitter.com/St_Dittes][@St_Dittes]]       |
 | Emde              | Volker      | wk@volker-emde.de                                | CDU    | http://www.volker-emde.de/                               | ---              |
