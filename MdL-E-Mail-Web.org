@@ -26,7 +26,7 @@
 | Henke             | Jörg        | joerg.henke@afd-shk.de                           | AfD    | http://afd-henke.de/                                     | ---              |
 | Hennig            | Susanne     | info@susannehennig.de                            | LINKE  | http://www.susannehennig.de/                             | [[https://twitter.com/SusanneHennig][@SusanneHenning]]  |
 | Herold            | Corinna     | corinna.herold@afd-thueringen.de                 | AfD    |                                                          | ---              |
-| Herrgott          | Christian   | Webformular                                      | CDU    | http://www.christian-herrgott.de/                        | ---              |
+| Herrgott          | Christian   | post@christian-herrgott.de                       | CDU    | http://www.christian-herrgott.de/                        | ---              |
 | Hey               | Matthias    | stimmefuergotha@live.de                          | SPD    | http://www.matthias-hey.de/                              | ---              |
 | Heym              | Michael     | WKB.Heym@web.de                                  | CDU    | ---                                                      | ---              |
 | Höcke             | Björn       | bjoern.hoecke@afd-thueringen.de                  | AfD    | http://www.bjoern-hoecke.de/                             | ---              |
