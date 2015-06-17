@@ -48,7 +48,7 @@
 | Kummer            | Tilo        | tilo.kummer@gmx.de                               | LINKE  | http://www.tilo-kummer.de/                               | ---              |
 | Kuschel           | Frank       | kuschel.wkb@web.de                               | LINKE  | http://www.frankkuschel.de/                              | [[https://twitter.com/FKuschel][@FKuschel]]        |
 | Lehmann           | Annette     | annette.lehmann@gmx.de                           | CDU    | http://www.annette-lehmann-cdu.de/                       | ---              |
-| Lehmann           | Diana       | Webformular                                      | SPD    | http://dianalehmann.de/                                  | ---              |
+| Lehmann           | Diana       | diana.lehmann@spd-thl.de                         | SPD    | http://dianalehmann.de/                                  | ---              |
 | Leukefeld         | Ina         | ina-leukefeld-wkb@t-online.de                    | LINKE  | http://www.inaleukefeld.de/                              | [[https://twitter.com/iia_i][@iia_i]]           |
 | Lieberknecht      | Christine   | wk.lieberknecht@arcor.de                         | CDU    | http://www.christine-lieberknecht.de/                    | ---              |
 | Liebetrau         | Christina   | CLiebetrau@t-online.de                           | CDU    | http://www.cdu-sm.de/                                    | ---              |
