@@ -81,7 +81,7 @@
 | Stange            | Karola      | wahlkreisbuero@Karola-Stange.de                  | LINKE  | http://www.karola-stange.de/                             | [[https://twitter.com/KarolaStange][@KarolaStange]]    |
 | Tasch             | Christina   | christina.tasch@gmx.de                           | CDU    | http://christina-tasch.de/                               | ---              |
 | Taubert           | Heike       | buero@heike-taubert.de                           | SPD    | http://www.heike-taubert.de/                             | [[https://twitter.com/HeikeTaubert][@HeikeTaubert]]    |
-| Thamm             | Jörg        |                                                  | CDU    | http://www.jörg-thamm.de/                                | ---              |
+| Thamm             | Jörg        | joerg.thamm13@gmail.com                          | CDU    | http://www.jörg-thamm.de/                                | ---              |
 | Tischner          | Christian   | Webformular                                      | CDU    | http://www.christian-tischner.de/                        | [[https://twitter.com/ct_grz][@ct_grz]]          |
 | Voigt             | Dr. Mario   | voigt@thl-cdu.de                                 | CDU    | http://www.mario-voigt.com/                              | [[https://twitter.com/mariovoigt][@mariovoigt]]      |
 | Walk              | Raymond     | post@raymondwalk.de                              | CDU    | http://www.raymondwalk.de/                               | ---              |
