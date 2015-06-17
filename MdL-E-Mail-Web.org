@@ -1,97 +1,97 @@
 * Abgeordnete des 6. Thüringer Landtages
-| Name              | Vorname     | E-Mail                                        | Partei | Webseite                                                 | Twitter          |
-|-------------------+-------------+-----------------------------------------------+--------+----------------------------------------------------------+------------------|
-| Adams             | Dirk        | dirk.adams@gruene-fraktion.thueringen.de      | GRÜNE  | http://www.dirkadams.de/                                 | [[https://twitter.com/GruenerDirk][@GruenerDirk]]     |
-| Becker            | Dagmar      | spd-nordhausen@web.de                         | SPD    | http://www.spd-nordhausen.de/                            | ---              |
-| Berninger         | Sabine      | wkb-berninger@t-online.de                     | LINKE  | http://www.sabine-berninger.de/                          | [[https://twitter.com/BineB][@BineB]]           |
-| Blechschmidt      | André       | blechschmidt@die-linke-erfurt.de              | LINKE  | http://www.andre-blechschmidt.de/                        | ---              |
-| Brandner          | Stephan     | stephan.brandner@afd-gera.de                  | AfD    | http://www.brandner-im-landtag.de/                       | ---              |
-| Bühl              | Andreas     | Webformular                                   | CDU    | http://www.andreasbuehl.de/                              | [[https://twitter.com/Buehlandreas][@Buehlandreas]]    |
-| Carius            | Christian   | Info@Christian-Carius.de                      | CDU    | http://www.christian-carius.de/                          | ---              |
-| Dittes            | Steffen     | sdittes@die-linke-thueringen.de               | LINKE  | http://www.steffen-dittes.de/                            | [[https://twitter.com/St_Dittes][@St_Dittes]]       |
-| Emde              | Volker      | wk@volker-emde.de                             | CDU    | http://www.volker-emde.de/                               | ---              |
-| Engel             | Kati        | grund@die-linke-thl.de                        | LINKE  | http://www.kati-grund.de/                                | [[https://twitter.com/KatiGrund][@KatiGrund]]       |
-| Fiedler           | Wolfgang    | Wolfgang-Fiedler-MdL@t-online.de              | CDU    | ---                                                      | ---              |
-| Floßmann          | Kristin     | frauenunion_hbn@gmx.de                        | CDU    | http://www.kristin-flossmann.de/                         | ---              |
-| Gehl              | Iris Martin | info@martin-gehl.de                           | LINKE  | http://www.martin-gehl.de                                | ---              |
-| Geibert           | Jörg        | kontakt@joerg-geibert.de                      | CDU    | http://www.joerg-geibert.de/                             | [[https://twitter.com/JGeibert][@JGeibert]]        |
-| Gentele           | Siegfried   | siegfried.gentele@afd-nem.de                  | AfD    |                                                          | ---              |
-| Grob              | Manfred     | post@manfred-grob.de                          | CDU    | http://www.manfred-grob.de/                              | ---              |
-| Gruhner           | Stefan      | buero@stefan-gruhner.de                       | CDU    | http://www.stefan-gruhner.de/                            | [[https://twitter.com/StefanGruhner][@StefanGruhner]]   |
-| Hande             | Ronald      | ronaldhande@gmx.de                            | LINKE  | http://www.ronald-hande.de/                              | ---              |
-| Harzer            | Steffen     | steffen.harzer@t-online.de                    | LINKE  | http://www.steffen-harzer.de/                            | [[https://twitter.com/Harzerkas][@Harzerkas]]       |
-| Hausold           | Dieter      | info@dieter-hausold.de                        | LINKE  | http://www.dieter-hausold.de/                            | ---              |
-| Helmerich         | Oskar       | Oskar.helmerich@afd-thueringen.de             | AfD    | http://www.rechtsanwalt-helmerich.de/                    | ---              |
-| Henfling          | Madeleine   |                                               | GRÜNE  | http://www.madeleine-henfling.de/                        | [[https://twitter.com/henfling_m][@henfling_m]]      |
-| Henke             | Jörg        | joerg.henke@afd-shk.de                        | AfD    | http://afd-henke.de/                                     | ---              |
-| Hennig            | Susanne     | info@susannehennig.de                         | LINKE  | http://www.susannehennig.de/                             | [[https://twitter.com/SusanneHennig][@SusanneHenning]]  |
-| Herold            | Corinna     | corinna.herold@afd-thueringen.de              | AfD    |                                                          | ---              |
-| Herrgott          | Christian   | Webformular                                   | CDU    | http://www.christian-herrgott.de/                        | ---              |
-| Hey               | Matthias    | stimmefuergotha@live.de                       | SPD    | http://www.matthias-hey.de/                              | ---              |
-| Heym              | Michael     | WKB.Heym@web.de                               | CDU    | ---                                                      | ---              |
-| Höcke             | Björn       | bjoern.hoecke@afd-thueringen.de               | AfD    | http://www.bjoern-hoecke.de/                             | ---              |
-| Höhn              | Uwe         | hoehn.mdl@t-online.de                         | SPD    | http://spdnet.sozi.info/thueringen/hildburghausen/hoehn/ | ---              |
-| Holbe             | Gudrun      | GudrunHolbe@web.de                            | CDU    | http://www.gudrun-holbe.de/                              | ---              |
-| Holzapfel         | Elke        | elke-holzapfel@t-online.de                    | CDU    | http://www.elke-holzapfel.de/                            | ---              |
-| Huster            | Mike        | wkb@die-linke-shk.de                          | LINKE  | http://www.mike-huster.de/                               | ---              |
-| Jung              | Margit      | jung-margit@t-online.de                       | LINKE  | http://www.margit-jung.de/                               | [[https://twitter.com/jung_margit][@jung_margit]]     |
-| Kalich            | Ralf        | kalich@die-linke-thl.de                       | LINKE  | http://www.ralfkalich.de/                                | [[https://twitter.com/RalfKalich][@RalfKalich]]      |
-| Kellner           | Jörg        | kontakt@joerg-kellner.de                      | CDU    | http://www.joerg-kellner.de/                             | ---              |
-| Kießling          | Olaf        | olaf.kiessling@afd-ilmkreis-gotha.de          | AfD    | http://olaf-kiessling.afd-thl.de/                        | ---              |
-| König             | Katharina   | katharina.koenig@haskala.de                   | LINKE  | http://www.haskala.de/                                   | [[https://twitter.com/KatharinaKoenig][@KatharinaKoenig]] |
-| Kräuter           | Rainer      | rkraeuter@me.com                              | LINKE  | http://www.rainer-kraeuter.de/                           | [[https://twitter.com/Rainerkraeuter][@Rainerkraeuter]]  |
-| Kobelt            | Roberto     | roberto.kobelt@gruene-thueringen.de           | GRÜNE  | http://robertokobelt.de/                                 | ---              |
-| Korschewsky       | Knut        | wbk-korschewsky@gmx.de                        | LINKE  | http://www.korschewsky.de/                               | [[https://twitter.com/KKorschewsky][@KKorschewsky]]    |
-| Kowalleck         | Maik        | info@maik-kowalleck.de                        | CDU    | http://www.maik-kowalleck.de/                            | ---              |
-| Krumpe            | Jens        | jens.krumpe@afd-thueringen.de                 | AfD    | ---                                                      | ---              |
-| Kubitzki          | Klaus Jörg  | mdljoergkubitzki@t-online.de                  | LINKE  | ---                                                      | ---              |
-| Kummer            | Tilo        | tilo.kummer@gmx.de                            | LINKE  | http://www.tilo-kummer.de/                               | ---              |
-| Kuschel           | Frank       | kuschel.wkb@web.de                            | LINKE  | http://www.frankkuschel.de/                              | [[https://twitter.com/FKuschel][@FKuschel]]        |
-| Lehmann           | Annette     | annette.lehmann@gmx.de                        | CDU    | http://www.annette-lehmann-cdu.de/                       | ---              |
-| Lehmann           | Diana       | Webformular                                   | SPD    | http://dianalehmann.de/                                  | ---              |
-| Leukefeld         | Ina         | ina-leukefeld-wkb@t-online.de                 | LINKE  | http://www.inaleukefeld.de/                              | [[https://twitter.com/iia_i][@iia_i]]           |
-| Lieberknecht      | Christine   | wk.lieberknecht@arcor.de                      | CDU    | http://www.christine-lieberknecht.de/                    | ---              |
-| Liebetrau         | Christina   | CLiebetrau@t-online.de                        | CDU    | http://www.cdu-sm.de/                                    | ---              |
-| Lukasch           | Ute         | Lukasch@die-linke-thl.de                      | LINKE  | http://www.utelukasch.de/                                | ---              |
-| Lukin             | Dr. Gudrun  | kontakt@gudrun-lukin.de                       | LINKE  | http://www.gudrun-lukin.de/                              | [[https://twitter.com/gudrunlukin][@gudrunlukin]]     |
-| Malsch            | Marcus      | Webformular                                   | CDU    | http://www.marcus-malsch.de/                             | ---              |
-| Marx              | Dorothea    | dorothea.marx@spd-thl.de                      | SPD    | http://www.marx-heute.de/                                | [[https://twitter.com/marx2009][@marx2009]]        |
-| Matschie          | Christoph   | post@matschie.de                              | SPD    | http://www.christoph-matschie.de/                        | [[https://twitter.com/chris_matschie][@chris_matschie]]  |
-| Meißner           | Beate       | mdl.meissner@web.de                           | CDU    | http://www.beate-meissner.de/cms/                        | ---              |
-| Mitteldorf        | Katja       | katja.mitteldorf@googlemail.com               | LINKE  | http://katja-mitteldorf.de/                              | [[https://twitter.com/icultureonline][@icultureonline]]  |
-| Möller            | Stefan      | stefan.moeller@afd-thueringen.de              | AfD    |                                                          | ---              |
-| Mohring           | Mike        | buero@mike-mohring.de                         | CDU    | http://www.mike-mohring.de/                              | [[https://twitter.com/MikeMohring][@MikeMohring]]     |
-| Mühlbauer         | Eleonore    | eleonore.muehlbauer@spd-thl.de                | SPD    | http://www.eleonore-muehlbauer.de/                       | [[https://twitter.com/EMuehlbauer_SPD][@EMuehlbauer_SPD]] |
-| Muhsal            | Wiebke      | wiebke.muhsal@afd-jena.de                     | AfD    |                                                          | ---              |
-| Müller            | Anja        | amueller@die-linke-thueringen.de              | LINKE  | http://anjamueller2014.de/                               | [[https://twitter.com/linkeanja][@linkeanja]]       |
-| Pelke             | Birgit      | birgit.pelke@spd-thl.de                       | SPD    | http://www.birgit-pelke.de/                              | ---              |
-| Pidde             | Dr. Werner  | wernerpidde@gmx.de                            | SPD    | http://www.werner-pidde.de/                              | ---              |
-| Pfefferlein       | Babett      |                                               | GRÜNE  |                                                          | ---              |
-| Primas            | Egon        | eprimas@cdu-nordhausen.de                     | CDU    | http://www.egonprimas.de/                                | ---              |
-| Reinholz          | Jürgen      | kontakt@juergen-reinholz.de                   | CDU    | http://www.juergen-reinholz.de/                          | ---              |
-| Rosin             | Marion      | marion.rosin@spd-thl.de                       | SPD    | http://www.marionrosin.de/                               | ---              |
-| Rothe-Beinlich    | Astrid      | erfurt@rothe-beinlich.de                      | GRÜNE  | http://www.rothe-beinlich.de/                            | [[https://twitter.com/Astrid_RB][@Astrid_RB]]       |
-| Rudy              | Thomas      | thomasrudy@t-online.de                        | AfD    |                                                          | ---              |
-| Schaft            | Christian   | schaft@die-linke-thl.de                       | LINKE  | http://www.christian-schaft.de/                          | [[https://twitter.com/ChristianSchaft][@ChristianSchaft]] |
-| Scherer           | Manfred     | Manfred.Scherer@CDU-Landtag.de                | CDU    | http://www.manfred-scherer.com/                          | [[https://twitter.com/ManfredScherer_][@ManfredScherer_]] |
-| Scheringer-Wright | Dr. Johanna | johanna@scheringer.de                         | LINKE  | http://johanna-scheringer.de/                            | ---              |
-| Schulze           | Simone      | simone.schulze.wk43@t-online.de               | CDU    | http://www.simone-schulze-cdu.de/                        | ---              |
-| Siegesmund        | Anja        | anja.siegesmund@gruene-fraktion.thueringen.de | GRÜNE  | http://siegesmund.info/                                  | [[https://twitter.com/AnjaSiegesmund][@AnjaSiegesmund]]  |
-| Skibbe            | Diana       | skibbe@die-linke-thl.de                       | LINKE  | http://www.dianaskibbe.de/                               | ---              |
-| Stange            | Karola      | wahlkreisbuero@Karola-Stange.de               | LINKE  | http://www.karola-stange.de/                             | [[https://twitter.com/KarolaStange][@KarolaStange]]    |
-| Tasch             | Christina   | christina.tasch@gmx.de                        | CDU    | http://christina-tasch.de/                               | ---              |
-| Taubert           | Heike       | buero@heike-taubert.de                        | SPD    | http://www.heike-taubert.de/                             | [[https://twitter.com/HeikeTaubert][@HeikeTaubert]]    |
-| Thamm             | Jörg        |                                               | CDU    | http://www.jörg-thamm.de/                                | ---              |
-| Tischner          | Christian   | Webformular                                   | CDU    | http://www.christian-tischner.de/                        | [[https://twitter.com/ct_grz][@ct_grz]]          |
-| Voigt             | Dr. Mario   | voigt@thl-cdu.de                              | CDU    | http://www.mario-voigt.com/                              | [[https://twitter.com/mariovoigt][@mariovoigt]]      |
-| Walk              | Raymond     | post@raymondwalk.de                           | CDU    | http://www.raymondwalk.de/                               | ---              |
-| Walsmann          | Marion      | info@walsmann.de                              | CDU    | http://www.walsmann.de/                                  | [[https://twitter.com/MarionWalsmann][@MarionWalsmann]]  |
-| Warnecke          | Frank       | buero@frank-warnecke.eu                       | SPD    | http://frank-warnecke.eu/                                | ---              |
-| Wirkner           | Herbert     | info@herbert-wirkner.de                       | CDU    | http://www.herbert-wirkner.de/                           | ---              |
-| Wolf              | Torsten     | kontakt@torsten-wolf-jena.de                  | LINKE  | http://torsten-wolf.net/                                 | ---              |
-| Worm              | Henry       | info@henryworm.de                             | CDU    | http://www.henryworm.de/de/index.php                     | ---              |
-| Wucherpfennig     | Gerold      | kontakt@gerold-wucherpfennig.de               | CDU    | http://www.gerold-wucherpfennig.de/                      | ---              |
-| Zippel            | Christoph   | info@cdu-altenburger-land.de                  | CDU    | http://www.christoph-zippel.de/                          | ---              |
+| Name              | Vorname     | E-Mail                                           | Partei | Webseite                                                 | Twitter          |
+|-------------------+-------------+--------------------------------------------------+--------+----------------------------------------------------------+------------------|
+| Adams             | Dirk        | dirk.adams@gruene-fraktion.thueringen.de         | GRÜNE  | http://www.dirkadams.de/                                 | [[https://twitter.com/GruenerDirk][@GruenerDirk]]     |
+| Becker            | Dagmar      | spd-nordhausen@web.de                            | SPD    | http://www.spd-nordhausen.de/                            | ---              |
+| Berninger         | Sabine      | wkb-berninger@t-online.de                        | LINKE  | http://www.sabine-berninger.de/                          | [[https://twitter.com/BineB][@BineB]]           |
+| Blechschmidt      | André       | blechschmidt@die-linke-erfurt.de                 | LINKE  | http://www.andre-blechschmidt.de/                        | ---              |
+| Brandner          | Stephan     | stephan.brandner@afd-gera.de                     | AfD    | http://www.brandner-im-landtag.de/                       | ---              |
+| Bühl              | Andreas     | Webformular                                      | CDU    | http://www.andreasbuehl.de/                              | [[https://twitter.com/Buehlandreas][@Buehlandreas]]    |
+| Carius            | Christian   | Info@Christian-Carius.de                         | CDU    | http://www.christian-carius.de/                          | ---              |
+| Dittes            | Steffen     | sdittes@die-linke-thueringen.de                  | LINKE  | http://www.steffen-dittes.de/                            | [[https://twitter.com/St_Dittes][@St_Dittes]]       |
+| Emde              | Volker      | wk@volker-emde.de                                | CDU    | http://www.volker-emde.de/                               | ---              |
+| Engel             | Kati        | grund@die-linke-thl.de                           | LINKE  | http://www.kati-grund.de/                                | [[https://twitter.com/KatiGrund][@KatiGrund]]       |
+| Fiedler           | Wolfgang    | Wolfgang-Fiedler-MdL@t-online.de                 | CDU    | ---                                                      | ---              |
+| Floßmann          | Kristin     | frauenunion_hbn@gmx.de                           | CDU    | http://www.kristin-flossmann.de/                         | ---              |
+| Gehl              | Iris Martin | info@martin-gehl.de                              | LINKE  | http://www.martin-gehl.de                                | ---              |
+| Geibert           | Jörg        | kontakt@joerg-geibert.de                         | CDU    | http://www.joerg-geibert.de/                             | [[https://twitter.com/JGeibert][@JGeibert]]        |
+| Gentele           | Siegfried   | siegfried.gentele@afd-nem.de                     | AfD    |                                                          | ---              |
+| Grob              | Manfred     | post@manfred-grob.de                             | CDU    | http://www.manfred-grob.de/                              | ---              |
+| Gruhner           | Stefan      | buero@stefan-gruhner.de                          | CDU    | http://www.stefan-gruhner.de/                            | [[https://twitter.com/StefanGruhner][@StefanGruhner]]   |
+| Hande             | Ronald      | ronaldhande@gmx.de                               | LINKE  | http://www.ronald-hande.de/                              | ---              |
+| Harzer            | Steffen     | steffen.harzer@t-online.de                       | LINKE  | http://www.steffen-harzer.de/                            | [[https://twitter.com/Harzerkas][@Harzerkas]]       |
+| Hausold           | Dieter      | info@dieter-hausold.de                           | LINKE  | http://www.dieter-hausold.de/                            | ---              |
+| Helmerich         | Oskar       | Oskar.helmerich@afd-thueringen.de                | AfD    | http://www.rechtsanwalt-helmerich.de/                    | ---              |
+| Henfling          | Madeleine   | madeleine.henfling@gruene-fraktion.thueringen.de | GRÜNE  | http://www.madeleine-henfling.de/                        | [[https://twitter.com/henfling_m][@henfling_m]]      |
+| Henke             | Jörg        | joerg.henke@afd-shk.de                           | AfD    | http://afd-henke.de/                                     | ---              |
+| Hennig            | Susanne     | info@susannehennig.de                            | LINKE  | http://www.susannehennig.de/                             | [[https://twitter.com/SusanneHennig][@SusanneHenning]]  |
+| Herold            | Corinna     | corinna.herold@afd-thueringen.de                 | AfD    |                                                          | ---              |
+| Herrgott          | Christian   | Webformular                                      | CDU    | http://www.christian-herrgott.de/                        | ---              |
+| Hey               | Matthias    | stimmefuergotha@live.de                          | SPD    | http://www.matthias-hey.de/                              | ---              |
+| Heym              | Michael     | WKB.Heym@web.de                                  | CDU    | ---                                                      | ---              |
+| Höcke             | Björn       | bjoern.hoecke@afd-thueringen.de                  | AfD    | http://www.bjoern-hoecke.de/                             | ---              |
+| Höhn              | Uwe         | hoehn.mdl@t-online.de                            | SPD    | http://spdnet.sozi.info/thueringen/hildburghausen/hoehn/ | ---              |
+| Holbe             | Gudrun      | GudrunHolbe@web.de                               | CDU    | http://www.gudrun-holbe.de/                              | ---              |
+| Holzapfel         | Elke        | elke-holzapfel@t-online.de                       | CDU    | http://www.elke-holzapfel.de/                            | ---              |
+| Huster            | Mike        | wkb@die-linke-shk.de                             | LINKE  | http://www.mike-huster.de/                               | ---              |
+| Jung              | Margit      | jung-margit@t-online.de                          | LINKE  | http://www.margit-jung.de/                               | [[https://twitter.com/jung_margit][@jung_margit]]     |
+| Kalich            | Ralf        | kalich@die-linke-thl.de                          | LINKE  | http://www.ralfkalich.de/                                | [[https://twitter.com/RalfKalich][@RalfKalich]]      |
+| Kellner           | Jörg        | kontakt@joerg-kellner.de                         | CDU    | http://www.joerg-kellner.de/                             | ---              |
+| Kießling          | Olaf        | olaf.kiessling@afd-ilmkreis-gotha.de             | AfD    | http://olaf-kiessling.afd-thl.de/                        | ---              |
+| König             | Katharina   | katharina.koenig@haskala.de                      | LINKE  | http://www.haskala.de/                                   | [[https://twitter.com/KatharinaKoenig][@KatharinaKoenig]] |
+| Kräuter           | Rainer      | rkraeuter@me.com                                 | LINKE  | http://www.rainer-kraeuter.de/                           | [[https://twitter.com/Rainerkraeuter][@Rainerkraeuter]]  |
+| Kobelt            | Roberto     | roberto.kobelt@gruene-thueringen.de              | GRÜNE  | http://robertokobelt.de/                                 | ---              |
+| Korschewsky       | Knut        | wbk-korschewsky@gmx.de                           | LINKE  | http://www.korschewsky.de/                               | [[https://twitter.com/KKorschewsky][@KKorschewsky]]    |
+| Kowalleck         | Maik        | info@maik-kowalleck.de                           | CDU    | http://www.maik-kowalleck.de/                            | ---              |
+| Krumpe            | Jens        | jens.krumpe@afd-thueringen.de                    | AfD    | ---                                                      | ---              |
+| Kubitzki          | Klaus Jörg  | mdljoergkubitzki@t-online.de                     | LINKE  | ---                                                      | ---              |
+| Kummer            | Tilo        | tilo.kummer@gmx.de                               | LINKE  | http://www.tilo-kummer.de/                               | ---              |
+| Kuschel           | Frank       | kuschel.wkb@web.de                               | LINKE  | http://www.frankkuschel.de/                              | [[https://twitter.com/FKuschel][@FKuschel]]        |
+| Lehmann           | Annette     | annette.lehmann@gmx.de                           | CDU    | http://www.annette-lehmann-cdu.de/                       | ---              |
+| Lehmann           | Diana       | Webformular                                      | SPD    | http://dianalehmann.de/                                  | ---              |
+| Leukefeld         | Ina         | ina-leukefeld-wkb@t-online.de                    | LINKE  | http://www.inaleukefeld.de/                              | [[https://twitter.com/iia_i][@iia_i]]           |
+| Lieberknecht      | Christine   | wk.lieberknecht@arcor.de                         | CDU    | http://www.christine-lieberknecht.de/                    | ---              |
+| Liebetrau         | Christina   | CLiebetrau@t-online.de                           | CDU    | http://www.cdu-sm.de/                                    | ---              |
+| Lukasch           | Ute         | Lukasch@die-linke-thl.de                         | LINKE  | http://www.utelukasch.de/                                | ---              |
+| Lukin             | Dr. Gudrun  | kontakt@gudrun-lukin.de                          | LINKE  | http://www.gudrun-lukin.de/                              | [[https://twitter.com/gudrunlukin][@gudrunlukin]]     |
+| Malsch            | Marcus      | Webformular                                      | CDU    | http://www.marcus-malsch.de/                             | ---              |
+| Marx              | Dorothea    | dorothea.marx@spd-thl.de                         | SPD    | http://www.marx-heute.de/                                | [[https://twitter.com/marx2009][@marx2009]]        |
+| Matschie          | Christoph   | post@matschie.de                                 | SPD    | http://www.christoph-matschie.de/                        | [[https://twitter.com/chris_matschie][@chris_matschie]]  |
+| Meißner           | Beate       | mdl.meissner@web.de                              | CDU    | http://www.beate-meissner.de/cms/                        | ---              |
+| Mitteldorf        | Katja       | katja.mitteldorf@googlemail.com                  | LINKE  | http://katja-mitteldorf.de/                              | [[https://twitter.com/icultureonline][@icultureonline]]  |
+| Möller            | Stefan      | stefan.moeller@afd-thueringen.de                 | AfD    |                                                          | ---              |
+| Mohring           | Mike        | buero@mike-mohring.de                            | CDU    | http://www.mike-mohring.de/                              | [[https://twitter.com/MikeMohring][@MikeMohring]]     |
+| Mühlbauer         | Eleonore    | eleonore.muehlbauer@spd-thl.de                   | SPD    | http://www.eleonore-muehlbauer.de/                       | [[https://twitter.com/EMuehlbauer_SPD][@EMuehlbauer_SPD]] |
+| Muhsal            | Wiebke      | wiebke.muhsal@afd-jena.de                        | AfD    |                                                          | ---              |
+| Müller            | Anja        | amueller@die-linke-thueringen.de                 | LINKE  | http://anjamueller2014.de/                               | [[https://twitter.com/linkeanja][@linkeanja]]       |
+| Pelke             | Birgit      | birgit.pelke@spd-thl.de                          | SPD    | http://www.birgit-pelke.de/                              | ---              |
+| Pidde             | Dr. Werner  | wernerpidde@gmx.de                               | SPD    | http://www.werner-pidde.de/                              | ---              |
+| Pfefferlein       | Babett      |                                                  | GRÜNE  |                                                          | ---              |
+| Primas            | Egon        | eprimas@cdu-nordhausen.de                        | CDU    | http://www.egonprimas.de/                                | ---              |
+| Reinholz          | Jürgen      | kontakt@juergen-reinholz.de                      | CDU    | http://www.juergen-reinholz.de/                          | ---              |
+| Rosin             | Marion      | marion.rosin@spd-thl.de                          | SPD    | http://www.marionrosin.de/                               | ---              |
+| Rothe-Beinlich    | Astrid      | erfurt@rothe-beinlich.de                         | GRÜNE  | http://www.rothe-beinlich.de/                            | [[https://twitter.com/Astrid_RB][@Astrid_RB]]       |
+| Rudy              | Thomas      | thomasrudy@t-online.de                           | AfD    |                                                          | ---              |
+| Schaft            | Christian   | schaft@die-linke-thl.de                          | LINKE  | http://www.christian-schaft.de/                          | [[https://twitter.com/ChristianSchaft][@ChristianSchaft]] |
+| Scherer           | Manfred     | Manfred.Scherer@CDU-Landtag.de                   | CDU    | http://www.manfred-scherer.com/                          | [[https://twitter.com/ManfredScherer_][@ManfredScherer_]] |
+| Scheringer-Wright | Dr. Johanna | johanna@scheringer.de                            | LINKE  | http://johanna-scheringer.de/                            | ---              |
+| Schulze           | Simone      | simone.schulze.wk43@t-online.de                  | CDU    | http://www.simone-schulze-cdu.de/                        | ---              |
+| Siegesmund        | Anja        | anja.siegesmund@gruene-fraktion.thueringen.de    | GRÜNE  | http://siegesmund.info/                                  | [[https://twitter.com/AnjaSiegesmund][@AnjaSiegesmund]]  |
+| Skibbe            | Diana       | skibbe@die-linke-thl.de                          | LINKE  | http://www.dianaskibbe.de/                               | ---              |
+| Stange            | Karola      | wahlkreisbuero@Karola-Stange.de                  | LINKE  | http://www.karola-stange.de/                             | [[https://twitter.com/KarolaStange][@KarolaStange]]    |
+| Tasch             | Christina   | christina.tasch@gmx.de                           | CDU    | http://christina-tasch.de/                               | ---              |
+| Taubert           | Heike       | buero@heike-taubert.de                           | SPD    | http://www.heike-taubert.de/                             | [[https://twitter.com/HeikeTaubert][@HeikeTaubert]]    |
+| Thamm             | Jörg        |                                                  | CDU    | http://www.jörg-thamm.de/                                | ---              |
+| Tischner          | Christian   | Webformular                                      | CDU    | http://www.christian-tischner.de/                        | [[https://twitter.com/ct_grz][@ct_grz]]          |
+| Voigt             | Dr. Mario   | voigt@thl-cdu.de                                 | CDU    | http://www.mario-voigt.com/                              | [[https://twitter.com/mariovoigt][@mariovoigt]]      |
+| Walk              | Raymond     | post@raymondwalk.de                              | CDU    | http://www.raymondwalk.de/                               | ---              |
+| Walsmann          | Marion      | info@walsmann.de                                 | CDU    | http://www.walsmann.de/                                  | [[https://twitter.com/MarionWalsmann][@MarionWalsmann]]  |
+| Warnecke          | Frank       | buero@frank-warnecke.eu                          | SPD    | http://frank-warnecke.eu/                                | ---              |
+| Wirkner           | Herbert     | info@herbert-wirkner.de                          | CDU    | http://www.herbert-wirkner.de/                           | ---              |
+| Wolf              | Torsten     | kontakt@torsten-wolf-jena.de                     | LINKE  | http://torsten-wolf.net/                                 | ---              |
+| Worm              | Henry       | info@henryworm.de                                | CDU    | http://www.henryworm.de/de/index.php                     | ---              |
+| Wucherpfennig     | Gerold      | kontakt@gerold-wucherpfennig.de                  | CDU    | http://www.gerold-wucherpfennig.de/                      | ---              |
+| Zippel            | Christoph   | info@cdu-altenburger-land.de                     | CDU    | http://www.christoph-zippel.de/                          | ---              |
 * Ehemalige Abgeordnete
 | Name              | Vorname     | E-Mail                                        | Partei | Webseite                                                 | Twitter          |
 |-------------------+-------------+-----------------------------------------------+--------+----------------------------------------------------------+------------------|
