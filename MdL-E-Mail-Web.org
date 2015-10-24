@@ -64,6 +64,7 @@
 | Mühlbauer         | Eleonore    | eleonore.muehlbauer@spd-thl.de                   | SPD    | http://www.eleonore-muehlbauer.de/                       | [[https://twitter.com/EMuehlbauer_SPD][@EMuehlbauer_SPD]] |
 | Muhsal            | Wiebke      | wiebke.muhsal@afd-jena.de                        | AfD    |                                                          | ---              |
 | Müller            | Anja        | amueller@die-linke-thueringen.de                 | LINKE  | http://anjamueller2014.de/                               | [[https://twitter.com/linkeanja][@linkeanja]]       |
+| Müller            | Olaf        | olaf.mueller@gruene-thueringen.de                | GRÜNE  |                                                          |                  |
 | Pelke             | Birgit      | birgit.pelke@spd-thl.de                          | SPD    | http://www.birgit-pelke.de/                              | ---              |
 | Pidde             | Dr. Werner  | wernerpidde@gmx.de                               | SPD    | http://www.werner-pidde.de/                              | ---              |
 | Pfefferlein       | Babett      | wahlkreis@babett-pfefferlein.de                  | GRÜNE  |                                                          | ---              |
@@ -76,7 +77,6 @@
 | Scherer           | Manfred     | Manfred.Scherer@CDU-Landtag.de                   | CDU    | http://www.manfred-scherer.com/                          | [[https://twitter.com/ManfredScherer_][@ManfredScherer_]] |
 | Scheringer-Wright | Dr. Johanna | johanna@scheringer.de                            | LINKE  | http://johanna-scheringer.de/                            | ---              |
 | Schulze           | Simone      | simone.schulze.wk43@t-online.de                  | CDU    | http://www.simone-schulze-cdu.de/                        | ---              |
-| Siegesmund        | Anja        | anja.siegesmund@gruene-fraktion.thueringen.de    | GRÜNE  | http://siegesmund.info/                                  | [[https://twitter.com/AnjaSiegesmund][@AnjaSiegesmund]]  |
 | Skibbe            | Diana       | skibbe@die-linke-thl.de                          | LINKE  | http://www.dianaskibbe.de/                               | ---              |
 | Stange            | Karola      | wahlkreisbuero@Karola-Stange.de                  | LINKE  | http://www.karola-stange.de/                             | [[https://twitter.com/KarolaStange][@KarolaStange]]    |
 | Tasch             | Christina   | christina.tasch@gmx.de                           | CDU    | http://christina-tasch.de/                               | ---              |
@@ -93,9 +93,10 @@
 | Wucherpfennig     | Gerold      | kontakt@gerold-wucherpfennig.de                  | CDU    | http://www.gerold-wucherpfennig.de/                      | ---              |
 | Zippel            | Christoph   | info@cdu-altenburger-land.de                     | CDU    | http://www.christoph-zippel.de/                          | ---              |
 * Ehemalige Abgeordnete
-| Name              | Vorname     | E-Mail                                        | Partei | Webseite                                                 | Twitter          |
-|-------------------+-------------+-----------------------------------------------+--------+----------------------------------------------------------+------------------|
-| Klaubert          | Dr. Birgit  | info@dr-birgit-klaubert.de                    | LINKE  | http://www.dr-birgit-klaubert.de/                        | [[https://twitter.com/redhair54][@redhair54]]       |
-| Möller            | Olaf        | olaf.moeller.jena@t-online.de                 | GRÜNE  |                                                          | ---              |
-| Ramelow           | Bodo        | wahlkreisbuero@bodo-ramelow.de                | LINKE  | http://www.bodo-ramelow.de/                              | [[https://twitter.com/bodoramelow][@bodoramelow]]     |
-| Schubert          | Hartmut     | wkbschubert@t-online.de                       | SPD    | http://www.schubert-hartmut.de/                          | ---              |
+| Name       | Vorname    | E-Mail                                        | Partei | Webseite                          | Twitter         |
+|------------+------------+-----------------------------------------------+--------+-----------------------------------+-----------------|
+| Klaubert   | Dr. Birgit | info@dr-birgit-klaubert.de                    | LINKE  | http://www.dr-birgit-klaubert.de/ | [[https://twitter.com/redhair54][@redhair54]]      |
+| Möller     | Olaf       | olaf.moeller.jena@t-online.de                 | GRÜNE  |                                   | ---             |
+| Ramelow    | Bodo       | wahlkreisbuero@bodo-ramelow.de                | LINKE  | http://www.bodo-ramelow.de/       | [[https://twitter.com/bodoramelow][@bodoramelow]]    |
+| Schubert   | Hartmut    | wkbschubert@t-online.de                       | SPD    | http://www.schubert-hartmut.de/   | ---             |
+| Siegesmund | Anja       | anja.siegesmund@gruene-fraktion.thueringen.de | GRÜNE  | http://siegesmund.info/           | [[https://twitter.com/AnjaSiegesmund][@AnjaSiegesmund]] |
