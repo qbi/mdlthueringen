@@ -19,6 +19,7 @@
 | Grob              | Manfred     | post@manfred-grob.de                             | CDU    | http://www.manfred-grob.de/                              | ---              |
 | Gruhner           | Stefan      | buero@stefan-gruhner.de                          | CDU    | http://www.stefan-gruhner.de/                            | [[https://twitter.com/StefanGruhner][@StefanGruhner]]   |
 | Hande             | Ronald      | ronaldhande@gmx.de                               | LINKE  | http://www.ronald-hande.de/                              | ---              |
+| Hartung           | Falk Thomas | hartunginweimar@gmail.com                        | SPD    | https://www.thomas-hartung.info/ | ---   |
 | Harzer            | Steffen     | steffen.harzer@t-online.de                       | LINKE  | http://www.steffen-harzer.de/                            | [[https://twitter.com/Harzerkas][@Harzerkas]]       |
 | Hausold           | Dieter      | info@dieter-hausold.de                           | LINKE  | http://www.dieter-hausold.de/                            | ---              |
 | Helmerich         | Oskar       | Oskar.helmerich@afd-thueringen.de                | AfD    | http://www.rechtsanwalt-helmerich.de/                    | ---              |
@@ -30,7 +31,6 @@
 | Hey               | Matthias    | stimmefuergotha@live.de                          | SPD    | http://www.matthias-hey.de/                              | ---              |
 | Heym              | Michael     | WKB.Heym@web.de                                  | CDU    | ---                                                      | ---              |
 | Höcke             | Björn       | bjoern.hoecke@afd-thueringen.de                  | AfD    | http://www.bjoern-hoecke.de/                             | ---              |
-| Höhn              | Uwe         | hoehn.mdl@t-online.de                            | SPD    | http://spdnet.sozi.info/thueringen/hildburghausen/hoehn/ | ---              |
 | Holbe             | Gudrun      | GudrunHolbe@web.de                               | CDU    | http://www.gudrun-holbe.de/                              | ---              |
 | Holzapfel         | Elke        | elke-holzapfel@t-online.de                       | CDU    | http://www.elke-holzapfel.de/                            | ---              |
 | Huster            | Mike        | wkb@die-linke-shk.de                             | LINKE  | http://www.mike-huster.de/                               | ---              |
@@ -95,6 +95,7 @@
 * Ehemalige Abgeordnete
 | Name       | Vorname    | E-Mail                                        | Partei | Webseite                          | Twitter         |
 |------------+------------+-----------------------------------------------+--------+-----------------------------------+-----------------|
+| Höhn              | Uwe         | hoehn.mdl@t-online.de                            | SPD    | http://spdnet.sozi.info/thueringen/hildburghausen/hoehn/ | ---              |
 | Klaubert   | Dr. Birgit | info@dr-birgit-klaubert.de                    | LINKE  | http://www.dr-birgit-klaubert.de/ | [[https://twitter.com/redhair54][@redhair54]]      |
 | Möller     | Olaf       | olaf.moeller.jena@t-online.de                 | GRÜNE  |                                   | ---             |
 | Ramelow    | Bodo       | wahlkreisbuero@bodo-ramelow.de                | LINKE  | http://www.bodo-ramelow.de/       | [[https://twitter.com/bodoramelow][@bodoramelow]]    |
