@@ -22,7 +22,7 @@
 | Hartung           | Falk Thomas | hartunginweimar@gmail.com                        | SPD    | https://www.thomas-hartung.info/ | ---   |
 | Harzer            | Steffen     | steffen.harzer@t-online.de                       | LINKE  | http://www.steffen-harzer.de/                            | [[https://twitter.com/Harzerkas][@Harzerkas]]       |
 | Hausold           | Dieter      | info@dieter-hausold.de                           | LINKE  | http://www.dieter-hausold.de/                            | ---              |
-| Helmerich         | Oskar       | Oskar.helmerich@afd-thueringen.de                | AfD    | http://www.rechtsanwalt-helmerich.de/                    | ---              |
+| Helmerich         | Oskar       | info@oskar-helmerich.de                | SPD    | http://www.rechtsanwalt-helmerich.de/                    | ---              |
 | Henfling          | Madeleine   | madeleine.henfling@gruene-fraktion.thueringen.de | GRÜNE  | http://www.madeleine-henfling.de/                        | [[https://twitter.com/henfling_m][@henfling_m]]      |
 | Henke             | Jörg        | joerg.henke@afd-shk.de                           | AfD    | http://afd-henke.de/                                     | ---              |
 | Hennig            | Susanne     | info@susannehennig.de                            | LINKE  | http://www.susannehennig.de/                             | [[https://twitter.com/SusanneHennig][@SusanneHenning]]  |
