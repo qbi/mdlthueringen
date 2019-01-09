@@ -56,7 +56,6 @@
 | Lukin             | Dr. Gudrun  | kontakt@gudrun-lukin.de                          | LINKE  | http://www.gudrun-lukin.de/                              | [[https://twitter.com/gudrunlukin][@gudrunlukin]]     |
 | Malsch            | Marcus      | malsch@cdu-landtag.de                            | CDU    | http://www.marcus-malsch.de/                             | ---              |
 | Marx              | Dorothea    | dorothea.marx@spd-thl.de                         | SPD    | http://www.marx-heute.de/                                | [[https://twitter.com/marx2009][@marx2009]]        |
-| Matschie          | Christoph   | post@matschie.de                                 | SPD    | http://www.christoph-matschie.de/                        | [[https://twitter.com/chris_matschie][@chris_matschie]]  |
 | Meißner           | Beate       | mdl.meissner@web.de                              | CDU    | http://www.beate-meissner.de/cms/                        | ---              |
 | Mitteldorf        | Katja       | katja.mitteldorf@googlemail.com                  | LINKE  | http://katja-mitteldorf.de/                              | [[https://twitter.com/icultureonline][@icultureonline]]  |
 | Möller            | Stefan      | stefan.moeller@afd-thueringen.de                 | AfD    |                                                          | ---              |
@@ -74,6 +73,7 @@
 | Rothe-Beinlich    | Astrid      | erfurt@rothe-beinlich.de                         | GRÜNE  | http://www.rothe-beinlich.de/                            | [[https://twitter.com/Astrid_RB][@Astrid_RB]]       |
 | Rudy              | Thomas      | thomasrudy@t-online.de                           | AfD    |                                                          | ---              |
 | Schaft            | Christian   | schaft@die-linke-thl.de                          | LINKE  | http://www.christian-schaft.de/                          | [[https://twitter.com/ChristianSchaft][@ChristianSchaft]] |
+| Scheerschmidt     | Claudia     | claudia.scheerschmidt@spd-thl.de                 | SPD    | ---  | --- |
 | Scherer           | Manfred     | Manfred.Scherer@CDU-Landtag.de                   | CDU    | http://www.manfred-scherer.com/                          | [[https://twitter.com/ManfredScherer_][@ManfredScherer_]] |
 | Scheringer-Wright | Dr. Johanna | johanna@scheringer.de                            | LINKE  | http://johanna-scheringer.de/                            | ---              |
 | Schulze           | Simone      | simone.schulze.wk43@t-online.de                  | CDU    | http://www.simone-schulze-cdu.de/                        | ---              |
@@ -97,6 +97,7 @@
 |------------+------------+-----------------------------------------------+--------+-----------------------------------+-----------------|
 | Höhn              | Uwe         | hoehn.mdl@t-online.de                            | SPD    | http://spdnet.sozi.info/thueringen/hildburghausen/hoehn/ | ---              |
 | Klaubert   | Dr. Birgit | info@dr-birgit-klaubert.de                    | LINKE  | http://www.dr-birgit-klaubert.de/ | [[https://twitter.com/redhair54][@redhair54]]      |
+| Matschie          | Christoph   | post@matschie.de                                 | SPD    | http://www.christoph-matschie.de/                        | [[https://twitter.com/chris_matschie][@chris_matschie]]  |
 | Möller     | Olaf       | olaf.moeller.jena@t-online.de                 | GRÜNE  |                                   | ---             |
 | Ramelow    | Bodo       | wahlkreisbuero@bodo-ramelow.de                | LINKE  | http://www.bodo-ramelow.de/       | [[https://twitter.com/bodoramelow][@bodoramelow]]    |
 | Schubert   | Hartmut    | wkbschubert@t-online.de                       | SPD    | http://www.schubert-hartmut.de/   | ---             |
