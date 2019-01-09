@@ -15,7 +15,7 @@
 | Floßmann          | Kristin     | frauenunion_hbn@gmx.de                           | CDU    | http://www.kristin-flossmann.de/                         | ---              |
 | Gehl              | Iris Martin | info@martin-gehl.de                              | LINKE  | http://www.martin-gehl.de                                | ---              |
 | Geibert           | Jörg        | kontakt@joerg-geibert.de                         | CDU    | http://www.joerg-geibert.de/                             | [[https://twitter.com/JGeibert][@JGeibert]]        |
-| Gentele           | Siegfried   | mdl@sgentele.de                                  | AfD    |                                                          | ---              |
+| Gentele           | Siegfried   | mdl@sgentele.de, info@sgentele.de                | ---    | http://sgentele.de/                                                         | ---              |
 | Grob              | Manfred     | post@manfred-grob.de                             | CDU    | http://www.manfred-grob.de/                              | ---              |
 | Gruhner           | Stefan      | buero@stefan-gruhner.de                          | CDU    | http://www.stefan-gruhner.de/                            | [[https://twitter.com/StefanGruhner][@StefanGruhner]]   |
 | Hande             | Ronald      | ronaldhande@gmx.de                               | LINKE  | http://www.ronald-hande.de/                              | ---              |
@@ -43,7 +43,7 @@
 | Kobelt            | Roberto     | roberto.kobelt@gruene-thueringen.de              | GRÜNE  | http://robertokobelt.de/                                 | ---              |
 | Korschewsky       | Knut        | korschewsky@die-linke-thl.de                     | LINKE  | http://www.korschewsky.de/                               | [[https://twitter.com/KKorschewsky][@KKorschewsky]]    |
 | Kowalleck         | Maik        | info@maik-kowalleck.de                           | CDU    | http://www.maik-kowalleck.de/                            | ---              |
-| Krumpe            | Jens        | jens.krumpe@afd-thueringen.de                    | AfD    | ---                                                      | ---              |
+| Krumpe            | Jens        | mdl@jenskrumpe.de                                | ---    | http://www.jenskrumpe.de/                                                      | ---              |
 | Kubitzki          | Klaus Jörg  | mdljoergkubitzki@t-online.de                     | LINKE  | ---                                                      | ---              |
 | Kummer            | Tilo        | tilo.kummer@gmx.de                               | LINKE  | http://www.tilo-kummer.de/                               | ---              |
 | Kuschel           | Frank       | kuschel.wkb@web.de                               | LINKE  | http://www.frankkuschel.de/                              | [[https://twitter.com/FKuschel][@FKuschel]]        |
@@ -69,7 +69,7 @@
 | Pidde             | Dr. Werner  | wernerpidde@gmx.de                               | SPD    | http://www.werner-pidde.de/                              | ---              |
 | Pfefferlein       | Babett      | wahlkreis@babett-pfefferlein.de                  | GRÜNE  |                                                          | ---              |
 | Primas            | Egon        | eprimas@cdu-nordhausen.de                        | CDU    | http://www.egonprimas.de/                                | ---              |
-| Reinholz          | Jürgen      | kontakt@juergen-reinholz.de                      | CDU    | http://www.juergen-reinholz.de/                          | ---              |
+| Reinholz          | Jürgen      | kontakt@juergen-reinholz.de                      | ---    | http://www.juergen-reinholz.de/                          | ---              |
 | Rosin             | Marion      | marion.rosin@spd-thl.de                          | SPD    | http://www.marionrosin.de/                               | ---              |
 | Rothe-Beinlich    | Astrid      | erfurt@rothe-beinlich.de                         | GRÜNE  | http://www.rothe-beinlich.de/                            | [[https://twitter.com/Astrid_RB][@Astrid_RB]]       |
 | Rudy              | Thomas      | thomasrudy@t-online.de                           | AfD    |                                                          | ---              |
