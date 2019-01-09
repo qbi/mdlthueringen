@@ -2,7 +2,7 @@
 | Name              | Vorname     | E-Mail                                           | Partei | Webseite                                                 | Twitter          |
 |-------------------+-------------+--------------------------------------------------+--------+----------------------------------------------------------+------------------|
 | Adams             | Dirk        | dirk.adams@gruene-fraktion.thueringen.de         | GRÜNE  | http://www.dirkadams.de/                                 | [[https://twitter.com/GruenerDirk][@GruenerDirk]]     |
-| Becker            | Dagmar      | spd-nordhausen@web.de                            | SPD    | http://www.spd-nordhausen.de/                            | ---              |
+| Becker            | Dagmar      | dagmar.becker@spd-thl.de                           | SPD    | https://www.dagmar-becker.de/                            | ---              |
 | Berninger         | Sabine      | wkb-berninger@t-online.de                        | LINKE  | http://www.sabine-berninger.de/                          | [[https://twitter.com/BineB][@BineB]]           |
 | Blechschmidt      | André       | blechschmidt@die-linke-erfurt.de                 | LINKE  | http://www.andre-blechschmidt.de/                        | ---              |
 | Brandner          | Stephan     | stephan.brandner@afd-gera.de                     | AfD    | http://www.brandner-im-landtag.de/                       | ---              |
