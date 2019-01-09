@@ -69,7 +69,7 @@
 | Pfefferlein       | Babett      | wahlkreis@babett-pfefferlein.de                  | GRÜNE  |                                                          | ---              |
 | Primas            | Egon        | eprimas@cdu-nordhausen.de                        | CDU    | http://www.egonprimas.de/                                | ---              |
 | Reinholz          | Jürgen      | kontakt@juergen-reinholz.de                      | ---    | http://www.juergen-reinholz.de/                          | ---              |
-| Rosin             | Marion      | marion.rosin@spd-thl.de                          | SPD    | http://www.marionrosin.de/                               | ---              |
+| Rosin             | Marion      | marion.rosin@cdu-landtag.de                       | CDU    | http://www.marionrosin.de/                               | ---              |
 | Rothe-Beinlich    | Astrid      | erfurt@rothe-beinlich.de                         | GRÜNE  | http://www.rothe-beinlich.de/                            | [[https://twitter.com/Astrid_RB][@Astrid_RB]]       |
 | Rudy              | Thomas      | thomasrudy@t-online.de                           | AfD    |                                                          | ---              |
 | Schaft            | Christian   | schaft@die-linke-thl.de                          | LINKE  | http://www.christian-schaft.de/                          | [[https://twitter.com/ChristianSchaft][@ChristianSchaft]] |
